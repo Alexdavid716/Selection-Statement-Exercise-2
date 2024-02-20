@@ -1,0 +1,15 @@
+/Users/lexo316/Desktop/repos/Selection-Statement-Exercise-2/SelectionStatementsExercise2/bin/Debug/net6.0/SelectionStatementsExercise2
+/Users/lexo316/Desktop/repos/Selection-Statement-Exercise-2/SelectionStatementsExercise2/bin/Debug/net6.0/SelectionStatementsExercise2.deps.json
+/Users/lexo316/Desktop/repos/Selection-Statement-Exercise-2/SelectionStatementsExercise2/bin/Debug/net6.0/SelectionStatementsExercise2.runtimeconfig.json
+/Users/lexo316/Desktop/repos/Selection-Statement-Exercise-2/SelectionStatementsExercise2/bin/Debug/net6.0/SelectionStatementsExercise2.dll
+/Users/lexo316/Desktop/repos/Selection-Statement-Exercise-2/SelectionStatementsExercise2/bin/Debug/net6.0/SelectionStatementsExercise2.pdb
+/Users/lexo316/Desktop/repos/Selection-Statement-Exercise-2/SelectionStatementsExercise2/obj/Debug/net6.0/SelectionStatementsExercise2.csproj.AssemblyReference.cache
+/Users/lexo316/Desktop/repos/Selection-Statement-Exercise-2/SelectionStatementsExercise2/obj/Debug/net6.0/SelectionStatementsExercise2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lexo316/Desktop/repos/Selection-Statement-Exercise-2/SelectionStatementsExercise2/obj/Debug/net6.0/SelectionStatementsExercise2.AssemblyInfoInputs.cache
+/Users/lexo316/Desktop/repos/Selection-Statement-Exercise-2/SelectionStatementsExercise2/obj/Debug/net6.0/SelectionStatementsExercise2.AssemblyInfo.cs
+/Users/lexo316/Desktop/repos/Selection-Statement-Exercise-2/SelectionStatementsExercise2/obj/Debug/net6.0/SelectionStatementsExercise2.csproj.CoreCompileInputs.cache
+/Users/lexo316/Desktop/repos/Selection-Statement-Exercise-2/SelectionStatementsExercise2/obj/Debug/net6.0/SelectionStatementsExercise2.dll
+/Users/lexo316/Desktop/repos/Selection-Statement-Exercise-2/SelectionStatementsExercise2/obj/Debug/net6.0/refint/SelectionStatementsExercise2.dll
+/Users/lexo316/Desktop/repos/Selection-Statement-Exercise-2/SelectionStatementsExercise2/obj/Debug/net6.0/SelectionStatementsExercise2.pdb
+/Users/lexo316/Desktop/repos/Selection-Statement-Exercise-2/SelectionStatementsExercise2/obj/Debug/net6.0/SelectionStatementsExercise2.genruntimeconfig.cache
+/Users/lexo316/Desktop/repos/Selection-Statement-Exercise-2/SelectionStatementsExercise2/obj/Debug/net6.0/ref/SelectionStatementsExercise2.dll
